@@ -1,0 +1,10 @@
+{
+  "name": "QMS Elite - Quality Management Portal",
+  "description": "A comprehensive ISO 9001:2015 aligned Quality Management System with native Desktop capability (Windows .exe).",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
